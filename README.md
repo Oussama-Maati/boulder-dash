@@ -1,7 +1,7 @@
 # Boulder Dash Clone
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Oussama-Maati/boulder-dash)
-[![GitHub license](https://img.shields.io/github/license/Oussama-Maati/boulder-dash)](LICENSE)]([https://github.com/Oussama-Maati/boulder-dash/LICENSE.md](https://github.com/Oussama-Maati/boulder-dash/blob/main/LICENSE.md))
+![License](https://img.shields.io/badge/license-CC%20BY--NC-green)
 ![Java Version](https://img.shields.io/badge/Java-11%2B-blue)
 [![GitHub issues](https://img.shields.io/github/issues/Oussama-Maati/boulder-dash)](https://github.com/Oussama-Maati/boulder-dash/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Oussama-Maati/boulder-dash)](https://github.com/Oussama-Maati/boulder-dash/stargazers)
